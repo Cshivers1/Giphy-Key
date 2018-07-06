@@ -1,0 +1,16 @@
+body {
+    Background-image:url('https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/64/19/d9/6419d966-2a9a-7eff-6992-dc429167077c/AppIcon-1x_U007emarketing-85-220-0-6.png/1200x630wa.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    }
+
+article {
+    size: cover;
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+         column-count: 2;
+ -webkit-column-width: 200px;
+    -moz-column-width: 200px;
+         column-width: 200px;
+}
